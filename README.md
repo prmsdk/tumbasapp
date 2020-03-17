@@ -48,7 +48,7 @@ $db['default'] = array(
 2. Web saat ini per 2020/03/17 masih sangat berantakan dan memerlukan kerja sama tim untuk melakukan pengembangan.
 
 ## Keterangan
-- Seluruh baris kode untuk pengembangan aplikasi tumbasapp masih privat dan tidak untuk publik
+- Seluruh baris kode untuk pengembangan aplikasi tumbasapp bersifat publik namun jangan disalahgunakan
 - Sumber template admin dapat anda unduh disini [Aero Bootstrap](https://drive.google.com/file/d/1FN8bKe-NTiNz1TGZnWVZGIjGWpqZ92Bx/view?usp=sharing), template ini memiliki lisensi sesuai yang tertera pada package file.
 - Sumber template customer dapat anda unduh disini [Coagex Creative Agency](https://drive.google.com/file/d/1qi0EqYnPgHjY4Avzq7ETh7he4iZhJbfH/view?usp=sharing), template ini memiliki lisensi sesuai yang tertera pada package file.
 
